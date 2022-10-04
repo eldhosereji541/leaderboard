@@ -7,7 +7,7 @@ function App() {
   return (
     <DataContextProvider>
       <Leaderboard/>
-      </DataContextProvider>
+    </DataContextProvider>
   );
 }
 
